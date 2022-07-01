@@ -10,13 +10,6 @@
 /* 																			 					  	*/
 /* ************************************************************************************************ */
 
-/* To your information, build and run command :
-   g++ sha256_encryption_functions\aux_hash_function.cpp main.cpp -o output.exe
-
-   Colored text in C++ :
-   https://stackoverflow.com/questions/4053837/colorizing-text-in-the-console-with-c
-*/
-
 #include <iostream>
 #include <iso646.h>
 #include <string>
