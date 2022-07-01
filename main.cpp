@@ -29,9 +29,6 @@ void welcome_banner() {
 
 void end_message() {
 	printf("\x1B[31m[EXIT]\033[0m Bye ! \n\n");
-
-	/* Text in colors in C++ : 
-    printf("\x1B[93mYellow\033[0m"); */
 }
 
 
